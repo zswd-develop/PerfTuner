@@ -1,0 +1,17 @@
+# 本地临时文件
+*.tmp
+*.bak
+*.swp
+*.log
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
+
+# 防止误上传源码文件夹
+app/
+src/
+gradle/
+.gradle/
+.idea/
+build/
